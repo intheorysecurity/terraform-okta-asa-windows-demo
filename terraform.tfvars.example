@@ -1,0 +1,10 @@
+//AWS Config
+aws_region = "us-east-1"
+aws_access_key = "my-access-key"
+aws_secret_key = "my-aws_secret_key"
+
+
+//Okta ASA
+okta_asa_key_secret = "asa_key_secret"
+okta_asa_key = "asa_key"
+okta_asa_team = "team-name"
